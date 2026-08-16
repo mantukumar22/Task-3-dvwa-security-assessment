@@ -1,10 +1,5 @@
 # DVWA Web Application Security Assessment
 
-![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Findings](https://img.shields.io/badge/findings-7-red)
-![OWASP](https://img.shields.io/badge/OWASP-Top%2010%202021-orange)
-![License](https://img.shields.io/badge/license-MIT-blue)
-
 Hands-on OWASP Top 10 vulnerability assessment performed against **DVWA (Damn Vulnerable Web Application)**, with **Metasploitable2** as a supporting lab target. Completed as part of a cybersecurity internship (ApexPlanet Software Pvt. Ltd. — Task 3, Days 25–36).
 
 > ⚠️ **Disclaimer:** All testing was performed exclusively against intentionally vulnerable, locally hosted lab applications (DVWA / Metasploitable2) in an isolated environment. Nothing in this repository targets or was tested against production or third-party systems. This repo is for educational / portfolio purposes only.
